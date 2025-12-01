@@ -1,6 +1,6 @@
 # PDFutils
 
-This is a simple, small, offline-only Python tool created for learning purposes.
+This is a simple, small and offline-only Python tool created for learning purposes.
 It provides two simple PDF operations:
 
 * **Join PDFs** (`-j`)
